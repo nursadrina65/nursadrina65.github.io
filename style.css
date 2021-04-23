@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: geneva;
+	background-color: moccasin;
+}
+header {
+	background-image: url(black.jpg);
+}
+ul{
+	float: right;
+	margin-top: 20px;
+}
+ul li {
+	display: inline-block;
+}
+ul li a {
+	color: white;
+	padding: 20px;
+	transition: 0.5s;
+}
+.identitas {
+	max-width: 1200px;
+	margin: auto;
+}
+.judul {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+.judul h1 {
+	color: white;
+	font-size: 65px
+	text: bold;
+}
+.button {
+	position: absolute;
+	top: 65%;
+	left: 50%;
+	color: white;
+	transition: 0.5s;
+}
+.btn:hover {
+	background-color: white;
+	color: black;
+}
+.home {
+	margin: 10px;
+	text-align: center;
+}
+.pilihan {
+	margin-left:  10px;
+	margin-right: 10px;
+
+}
