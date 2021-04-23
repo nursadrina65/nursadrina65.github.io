@@ -1,0 +1,41 @@
+#t01 {
+	background-color: #fffcde
+}
+#t02 {
+	color: #ad4024
+}
+body {
+	background-image: url(black.jpg)
+}
+.latar {
+	width: 830px;
+	margin: auto;
+	background-color: #ffecc4
+}
+.isi {
+	padding: 15px
+}
+.isi h2 {
+	text-align: center;
+}
+table {
+	align-items: center;
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 15px;
+}
+.isi table {
+	margin-bottom: 20px
+	width: 57%;
+}
+.foto {
+	align-content: center;
+	width: 200px
+}
+.tulisan {
+	text-align: left;
+}
