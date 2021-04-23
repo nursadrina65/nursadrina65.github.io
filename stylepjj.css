@@ -18,3 +18,18 @@ body {
 .isi p {
 	text-align: justify
 }
+.identitas {
+	max-width: 1200px;
+	margin: auto;
+}
+button {
+	text-decoration: none;
+	float: right;
+	margin-top: 20px;
+	padding: 10px;
+	transition: 0.5s;
+	background-color: transparent;
+	border: 1px solid;
+	margin-right: 20px;
+	color: white;
+}
