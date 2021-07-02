@@ -1,0 +1,62 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: century gothic;
+	background-color: moccasin;
+}
+header {
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(black.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+button {
+	text-decoration: none;
+	float: right;
+	margin-top: 20px;
+	padding: 10px;
+	transition: 0.5s;
+	background-color: transparent;
+	border: 1px solid;
+	margin-right: 20px;
+	color: white;
+}
+.judul h1 {
+	position: absolute;
+	top: 50%;
+	left: 30%;
+	color: white;
+}
+.bttn {
+	border: 1px solid purple;
+	position: absolute;
+	top: 62%;
+	left: 45%;
+	transition: 0.5s;
+	padding: 10px;
+	background-color: white;
+	color: purple;
+	text-decoration: none;
+}
+.bttn:hover {
+	color: black;
+	background-color: purple;
+}
+.projects {
+	margin: 10px;
+}
+.projects h2 {
+	text-align: center;
+	font-weight: bold;
+}
+.pilihan {
+	margin-left:  10px;
+	margin-right: 10px;
+	text-align: left;
+}
+ul {
+	list-style-type: square;
+}
+.link {
+	color: black;
+}

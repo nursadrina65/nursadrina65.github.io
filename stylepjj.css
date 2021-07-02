@@ -1,0 +1,31 @@
+#t01 {
+	background-color: #fffcde
+}
+#t02 {
+	color: #ad4024
+}
+body {
+	background-image: url(black.jpg)
+}
+.latar {
+	width: 830px;
+	margin: auto;
+	background-color: #ffecc4
+}
+.isi {
+	padding: 20px
+}
+.isi p {
+	padding-top: 20px ;
+	text-align: justify
+}
+button {
+	float: right;
+	margin-top: 20px;
+	padding: 10px;
+	transition: 0.5s;
+	background-color: transparent;
+	border: 1px solid;
+	margin-right: 20px;
+	color: white;
+}

@@ -1,0 +1,71 @@
+body {
+	background-color: #b0e7ea;
+}
+.col {
+	text-align: center;
+}
+.judul {
+	color: #5f3e80;
+	padding-top: 5px;
+}
+.isi1 {
+	background-color: #ffe9df;
+	width: 1120px;
+	padding: 15px;
+}
+.isi1 col {
+	max-width: 270px;
+}
+.isi1 img {
+	max-width: 265px;
+}
+.isi2 {
+	background-color: #ffe9df;
+	width: 1120px;
+	padding-left: 8px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	padding-right: 11px;
+}
+.isi2 col {
+	max-width: 210px;
+}
+.isi2 img {
+	max-width: 200px;
+}
+.isi2 p {
+	text-align: justify;
+	color: #7c5e8c;
+	padding-top: 15px;
+	padding-left: 11px;
+	padding-right: 8px;
+}
+.isi3 {
+	background-color: #ffe9df;
+	width: 1120px;
+	padding: 15px;
+}
+.isi3 col {
+	max-width: 280px;
+}
+.isi3 img {
+	max-width: 280px;
+}
+.isi4 {
+	background-color: #ffe9df;
+	width: 1120px;
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+}
+.isi4 p {
+	text-align: justify;
+	color: #7c5e8c;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-right: 15px;
+}
+.isi img {
+	max-height: 258px;
+}
